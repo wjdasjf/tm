@@ -1,8 +1,34 @@
 ```
 ```
 
-### 
-[나의 관상은?](https://teachablemachine.withgoogle.com/models/XAucdeCEM/)
+# &#128525;[작성방법]&#128525;
+## 1.이미지 모으기
+|작업내용|비고|
+|--|--|
+|이광수,강민경,송중기,유아인,강동원|평생 재물운은 타고난 관상,평범한 인생을 살지 않을 관상,누구보다 정력이 좋은 관상,머리가 뛰어난 천재형 관상,개방적인 성격의 관상|
+|크롬확장 프로그램 DOWNLOAD ALL IMADES 활용| 약 120개 정도의 이미지 수집|
+
+## 2. 이미지 프로젝트 ( 내가 왕이 될 상인가?!)
+[나의 관상은](https://teachablemachine.withgoogle.com/models/XAucdeCEM/)
+이미지 프로젝트 [Teachable Machine 활용](https://teachablemachine.withgoogle.com/)
+
+## 3. 학습 후 테스트
+[임시 테스트](https://teachablemachine.withgoogle.com/models/XAucdeCEM/)
+
+## 4. 모델 내보내기
++ Tensorflow.js -> Upload(shareable link) 생성하여 확인
++ link 주소 복사하기
+
+## 5. 깃허브에 로그인
+[Githerb](https://github.com/)
+
+## 6. 링크 교체
+tm -> index.html -> 98번에서 링크 교환
+
+## 7. 나만의 페이지 생성 ( 나의 관상은? )
+tm -> settings -> pages -> custom domain에 tm 입력 -> 소스칸 세이브
+
+[내가 왕이 될 상인가...](https://www.google.com/url?sa=i&url=https%3A%2F%2Fwww.vingle.net%2Fposts%2F1934498&psig=AOvVaw1kzpMaEYqp_zCvp6APrmkh&ust=1622116116627000&source=images&cd=vfe&ved=0CAIQjRxqFwoTCLDYg8uj5_ACFQAAAAAdAAAAABAD)
 
 # Teachable Machine Image Project Git Hosting
 
