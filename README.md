@@ -10,7 +10,8 @@
 
 ## 2. 이미지 프로젝트 ( 내가 왕이 될 상인가?!)
 [나의 관상은](https://teachablemachine.withgoogle.com/models/XAucdeCEM/)
-이미지 프로젝트 [Teachable Machine 활용](https://teachablemachine.withgoogle.com/)
+
+###이미지 프로젝트 [Teachable Machine 활용](https://teachablemachine.withgoogle.com/)
 
 ## 3. 학습 후 테스트
 [임시 테스트](https://teachablemachine.withgoogle.com/models/XAucdeCEM/)
