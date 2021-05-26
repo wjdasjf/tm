@@ -29,7 +29,8 @@ tm -> index.html -> 98번에서 링크 교환
 ## 7. 나만의 페이지 생성 ( 나의 관상은? )
 tm -> settings -> pages -> custom domain에 tm 입력 -> 소스칸 세이브
 
-![내가 왕이 될 상인가...](https://www.google.com/url?sa=i&url=https%3A%2F%2Fwww.vingle.net%2Fposts%2F1934498&psig=AOvVaw1kzpMaEYqp_zCvp6APrmkh&ust=1622116116627000&source=images&cd=vfe&ved=0CAIQjRxqFwoTCLDYg8uj5_ACFQAAAAAdAAAAABAD)
+![image](https://user-images.githubusercontent.com/84504041/119655331-6d9dd780-be64-11eb-8381-7e510654909d.png)
+
 
 # Teachable Machine Image Project Git Hosting
 
