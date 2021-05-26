@@ -1,6 +1,10 @@
+5/26
+[나의 관상은?](https://teachablemachine.withgoogle.com/models/[...])
+
 # Teachable Machine Image Project Git Hosting
+
 ---
-##경일고 1325 정연우 5/20 1차시:&#128513;
+## 경일고 1325 정연우 5/20 1차시:&#128513;
 >오늘은 인공지능이 어떻게 물체를 범주화하는지에 대해 배웠다
 >>관련 프로그램으로 실습까지
 **사진을 분석 후 일정 사진 넣으면 유사성을 나타냄**
