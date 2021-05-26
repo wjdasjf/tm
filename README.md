@@ -31,6 +31,8 @@ tm -> settings -> pages -> custom domain에 tm 입력 -> 소스칸 세이브
 
 ![image](https://user-images.githubusercontent.com/84504041/119655331-6d9dd780-be64-11eb-8381-7e510654909d.png)
 
+#[나의 관상은](https://teachablemachine.withgoogle.com/models/XAucdeCEM/)
+
 
 # Teachable Machine Image Project Git Hosting
 
